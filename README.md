@@ -1,4 +1,4 @@
-### Olá Mundo, eu sou Gabriel Araújo, desenvolvedor front-end Jr. Amante de tecnologia. 👋
+### Olá Mundo, eu sou Gabriel Araújo, desenvolvedor front-end Jr. Amante de tecnologia. 🖥️
 
 <div align="center">
   <a href="https://github.com/gbaq88">
