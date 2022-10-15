@@ -21,12 +21,12 @@
 <a href="https://www.linkedin.com/in/gabriel-batista-queiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- - 🏫 Tecnologo em Redes de Computadores
- - 🎮 Amante de Tecnologia
- - 🖥️ Windows - Avancado
- - 🖥️ Linux - avançado
- - 💾 HTML
- - 💾 CSS
- - 💾 JavaScript
- - 💾 Python
--->
+ - 📚 - Tecnologo em Redes de Computadores
+ - 🎮 - Amante de Tecnologia
+ - <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> - Avançado
+ - <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> - Avançado
+ - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> - Avançado
+ - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> - Avançado
+ - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> - Básico
+ - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> - Básico
+ - <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> - Básico
